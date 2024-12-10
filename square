@@ -1,0 +1,2 @@
+const squareAndCube = num => ({ square: num * 5, cube: num * 25 });
+console.log(squareAndCube(5));  // Output: { square: 25, cube: 125 }
